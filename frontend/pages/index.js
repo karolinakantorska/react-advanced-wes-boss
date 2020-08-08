@@ -14,9 +14,7 @@ class Home extends React.Component {
 const Home = props => (
     <div>
         <p>Hej</p>
-        <Link href="/sell">
-            <a>Sell</a>
-        </Link>
+        
     </div>
 );
 export default Home;
